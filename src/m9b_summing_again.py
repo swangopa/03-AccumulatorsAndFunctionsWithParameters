@@ -67,7 +67,7 @@ def sum_powers(n, p):
     #   No fair running the code of  sum_powers  to GENERATE
     #   test cases; that would defeat the purpose of TESTING!
     # -------------------------------------------------------------------------
-    
+
 
 def run_test_sum_powers_in_range():
     """ Tests the   sum_powers_in_range   function. """
